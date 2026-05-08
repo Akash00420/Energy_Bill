@@ -74,5 +74,3 @@ const applianceSlice = createSlice({
   },
 });
 
-export const { clearApplianceState } = applianceSlice.actions;
-export default applianceSlice.reducer;
